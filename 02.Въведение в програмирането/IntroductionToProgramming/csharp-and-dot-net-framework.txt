@@ -1,0 +1,8 @@
+Problem 13. C# and .NET Differences
+
+    Describe the difference between C# and .NET Framework in 2-3 sentences.
+    Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+
+
+The first version of C # is developed by Microsoft in the period 1999 - 2002, and was released officially in use in 2002, as part of the .NET platform, which aims to significantly facilitate software development for the Windows environment by a qualitatively new approach to programming, based on the concepts of "virtual machine" and "managed code". At that time, the language and the platform Java, built on the same concepts are enjoying huge success in all areas of software development and the development of C # and .NET is Microsoft's natural response against the success of Java technology. One of the biggest advantages of the .NET Framework has built-in automatic memory management. It prevents developers from complicated task themselves to allocate memory for objects and to seek the right moment for its release. This seriously increases the productivity of developers and increases the quality of the programs written in C #.
